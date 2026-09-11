@@ -28,6 +28,3 @@ Week 6 focused on Advanced Analytics and Decision Support, building on the Week 
 - Updated Power BI Dashboard (including Advanced Analysis page)
 - Week 6 Advanced Analytics & Decision Support Report
 
-## Author
-**Ogar Princess Osowo-ayeba**  
-AnalystLab Africa Experience Lab – Data Analytics Track
